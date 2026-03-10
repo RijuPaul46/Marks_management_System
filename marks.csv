@@ -1,8 +1,8 @@
 roll_no,name,physics,chemistry,math,total
-1,RIJU PAUL,0,0,100,0
+1,RIJU PAUL,0,0,0,0
 2,SANJU PAUL,0,0,0,0
 3,SOHEL RANA,0,0,0,0
-4,KRISHNENDU MONDAL,0,86,0,0
+4,KRISHNENDU MONDAL,0,0,0,0
 5,SAPTARSHI MANNA,0,0,0,0
 6,ABHINANDAN DUTTA,0,0,0,0
 7,SREEMONTI ,0,0,0,0
@@ -10,3 +10,4 @@ roll_no,name,physics,chemistry,math,total
 9,SANJIB,0,0,0,0
 10,KRISHNA,0,0,0,0
 11,UTPAL RAY,0,0,0,0
+
